@@ -1,3 +1,3 @@
-Здарова, я Слава.
+What's up, I'm Slava.
 
-Программирую бэкенд и фронтенд на тайпскрипте. Люблю дизайн и щупать разные языки и технологии.
+I develop web stuff, but also like to dig into other areas, such as compilers, gamedev, embedded etc.
