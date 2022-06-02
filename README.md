@@ -1,4 +1,4 @@
-### What's up, I'm Slava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### What's up, I'm Slava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 I develop web stuff, but also like to dig into other areas, such as compilers, gamedev, embedded etc.
 
