@@ -19,3 +19,5 @@ I develop web stuff, but also like to dig into other areas, such as compilers, g
       src="https://img.shields.io/website?label=slaviqueue.com&style=for-the-badge&url=http%3A%2F%2Fslaviqueue.com"
   /></a>
 </p>
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
