@@ -13,11 +13,8 @@ I develop web stuff, but also like to dig into other areas, such as compilers, g
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
-  <a href="http://slaviqueue.com/" target="_blank"
-    ><img
-      alt="LinkedIn"
-      src="https://img.shields.io/website?label=slaviqueue.com&style=for-the-badge&url=http%3A%2F%2Fslaviqueue.com"
-  /></a>
+  
+  <a href="https://stand-with-ukraine.pp.ua">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine">
+  </a>
 </p>
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
